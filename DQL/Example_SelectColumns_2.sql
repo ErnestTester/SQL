@@ -5,5 +5,5 @@ Author:Ernesto Gonzalez*/
 SELECT
 FirstName as FName,
 LastName as LName,
-FirstName + ' ' + LastName as Fullname
+FirstName + ' ' + LastName as FullName
 FROM [Person].[Person]
